@@ -1,15 +1,3 @@
-﻿<#	
-	.NOTES
-	===========================================================================
-	 Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2018 v5.5.154
-	 Created on:   	8/25/2018 9:33 PM
-	 Created by:   	jrice1
-	 Organization: 	
-	 Filename:     	
-	===========================================================================
-	.DESCRIPTION
-		A description of the file.
-#>
 <#	
 .SYNOPSIS
 This script will add the domain the the list of accepted domains on Azure, email the list of people on that domain and then set the specified SPO site to accept external users.
